@@ -1,0 +1,26 @@
+.show-items {
+  display: flex;
+  margin: 15px 0px;
+  align-items: center;
+  gap: 10px;
+  color: black;
+  background-color: white;
+  justify-content: space-between;
+}
+.show-items h4 {
+  padding-left: 10px;
+}
+.todo-btn button {
+  margin: 0px 5px;
+  padding: 8px;
+}
+.edit-icon {
+  background-color: white;
+  color: white;
+}
+.plus-btn {
+  margin-left: 15px;
+}
+.remove-btn {
+  margin-top: 20px;
+}
